@@ -1,4 +1,4 @@
-# 👋 Hola, soy Wilmer Murillo
+# 👋 Hola, soy Wilmer Murillo Sánchez
 
 Soy **desarrollador web y móvil**, con experiencia en:
 
